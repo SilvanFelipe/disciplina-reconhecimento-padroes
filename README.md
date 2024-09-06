@@ -1,0 +1,1 @@
+# disciplina-reconhecimento-padroes
